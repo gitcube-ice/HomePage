@@ -42,6 +42,7 @@ header span{
 header h2{
     color: #d6e5f8;
     margin-left: 10%;
+    line-height: 1.1em;
 }
 #seconda{
     margin-left: 73px;
@@ -74,8 +75,8 @@ main {
     margin-right: 20%;
 }
 .row li{
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-top: 10px;
 }
 
